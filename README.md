@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alyssa-dannielle
 - 👀 I’m interested in ... travel and vanlife plus crochet
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... oh im not there yet haha
+- 💞️ I’m looking to collaborate on ... something fun to gain xp
 - 📫 How to reach me ... dm
 
 <!---
