@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alyssa-dannielle
 - 👀 I’m interested in ... vanlife, travel, and crochet
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... JavaScript, React.JS, Python, HTML, CSS
 - 💞️ I’m looking to collaborate on ... something fun to gain xp
-- 📫 How to reach me ... dm
+- 📫 How to reach me ... dm me anywhere!
 
 <!---
 alyssa-dannielle/alyssa-dannielle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
